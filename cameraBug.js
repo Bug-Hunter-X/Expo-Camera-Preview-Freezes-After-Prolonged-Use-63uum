@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with custom camera controls.  The camera preview might freeze or become unresponsive after a certain amount of time, particularly if there are frequent changes to the camera settings (like switching between flash modes or focusing). The error isn't always accompanied by a clear console message, making it difficult to debug.
